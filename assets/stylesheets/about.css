@@ -1,0 +1,16 @@
+.swiper-container {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* .swiper-slide.swiper-slide-active {
+    height: 40rem;
+} */
+
+.swiper-wrapper {
+    padding: 0;
+    margin: 0;
+}

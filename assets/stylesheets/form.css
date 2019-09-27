@@ -1,0 +1,19 @@
+form {
+    width: 40rem;
+    min-width: 40rem;
+    max-width: 40rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    overflow: hidden;
+}
+
+label {
+    font-weight: 600;
+    color: rgba(100, 100, 100, 0.8);
+}
+
+.card {
+    margin-top: 5rem;
+}
